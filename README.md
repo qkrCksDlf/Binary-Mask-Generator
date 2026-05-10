@@ -1,4 +1,4 @@
-## OverViwe
+## OverView
 Uses Grounding DINO for bounding boxes and SAM for segmentation to produce a binary mask.
 
 ## Setup
